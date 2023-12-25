@@ -3,14 +3,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/9113740/201498152-b171abb8-9225-487a-821c-6ff49ee48579.png">
 </picture>
 
-<div align="center"><strong>Next.js 14 Admin Dashboard Starter Template With Shadcn-ui</strong></div>
-<div align="center">Built with the Next.js App Router</div>
-<br />
-<div align="center">
-<a href="https://next-shadcn-dashboard-starter.vercel.app">View Demo</a>
-<span>
-</div>
-
 ## Overview
 
 This is a starter template using the following stack:
@@ -49,8 +41,8 @@ Clone this repo
 Run the following commands to start the development server:
 
 ```
-npm install
-npm run dev
+yarn install
+yarn run dev
 ```
 
 You should now be able to access the application at http://localhost:3000.
